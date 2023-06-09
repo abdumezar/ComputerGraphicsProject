@@ -1,0 +1,3 @@
+F:/FCAI - Bioinformatics/Computer Graphics/FinalProjectComputerGraphics/cmake-build-debug/CMakeFiles/FinalProjectComputerGraphics.dir
+F:/FCAI - Bioinformatics/Computer Graphics/FinalProjectComputerGraphics/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/FCAI - Bioinformatics/Computer Graphics/FinalProjectComputerGraphics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
